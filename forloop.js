@@ -7,4 +7,4 @@ for (let Cantidad = 0; Cantidad < Nombre.length; Cantidad++){
     console.log("La cantidad de Letras de "+Nombre+ " es "+ contadorDeLetras +" Wachin")
 }
 
-//for loop que cuente la cantidad de letras en tu nombre.
+//hacemos un for loop que cuente la cantidad de letras en tu nombre.
